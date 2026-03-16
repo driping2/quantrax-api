@@ -48,7 +48,7 @@ def home():
         <div class="container">
             <h1>Quantrax AI</h1>
             <p>Smart AI agent for easy data analysis. It helps you understand datasets, make charts, and forecast trends fast on the Base network.</p>
-            <div class="status-badge">🟢 System Online & Healthy (Rank 1 Configuration + X402)</div>
+            <div class="status-badge">🟢 System Online & Healthy</div>
         </div>
     </body>
     </html>
@@ -108,7 +108,6 @@ def a2a_endpoint():
         "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
         "active": True,
         "x402support": True,
-        # Catatan: Aku pakai link gambar Axedraxos sementara. Kalau kamu punya gambar avatar baru buat Quantrax di 8004scan, tinggal ganti link di bawah ini.
         "image": "https://blob.8004scan.app/b7597dafb29bcf15b6fec7bcdbe62e88f59032742e587a42889c831c1ab615c5.jpg", 
         "tags": [
             "AI",
