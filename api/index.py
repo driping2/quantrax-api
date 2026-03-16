@@ -108,7 +108,7 @@ def a2a_endpoint():
         "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
         "active": True,
         "x402support": True,
-        "image": "https://blob.8004scan.app/b7597dafb29bcf15b6fec7bcdbe62e88f59032742e587a42889c831c1ab615c5.jpg", 
+        "image": "https://blob.8004scan.app/5aa3c362cfc0f71899998539fe72440aa56cd0c475d203f41dc428bb8813428f.jpg", 
         "tags": [
             "AI",
             "autonomous",
